@@ -24,6 +24,7 @@ head {
     font-size: 45px;
     letter-spacing: 5px;
     margin-bottom: 10px;
+    background-color: #f3f372;
 }
 
 .top-wrapper p {
@@ -31,7 +32,7 @@ head {
 }
 
 header {
-    background-image: url();
+    background-image: url(https://images.app.goo.gl/NxWh5NbYEjfkpgWf6);
 }
 
 .lesson-wrapper {
@@ -50,4 +51,5 @@ header {
     text-align: center;
     padding-bottom: 80px;
     border-bottom: 1px solid #eee;
+    span: #ff0000;
 }
