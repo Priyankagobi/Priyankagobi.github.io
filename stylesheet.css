@@ -24,12 +24,12 @@ head {
     font-size: 45px;
     letter-spacing: 5px;
     margin-bottom: 10px;
-    background-color: #f3f372;
+    
 }
 
 .top-wrapper p {
     margin-bottom: 3px;
-    background-color: #f3f372;
+    
 }
 
 header {
@@ -40,7 +40,6 @@ header {
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 80px;
-    background-color: #f7f7f7;
     text-align: center;
 }
 
